@@ -1,0 +1,15 @@
+/Users/user/Desktop/Курс РАЗРАБОТЧИК/Репозитории/Examples/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole
+/Users/user/Desktop/Курс РАЗРАБОТЧИК/Репозитории/Examples/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.deps.json
+/Users/user/Desktop/Курс РАЗРАБОТЧИК/Репозитории/Examples/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.runtimeconfig.json
+/Users/user/Desktop/Курс РАЗРАБОТЧИК/Репозитории/Examples/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.dll
+/Users/user/Desktop/Курс РАЗРАБОТЧИК/Репозитории/Examples/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.pdb
+/Users/user/Desktop/Курс РАЗРАБОТЧИК/Репозитории/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.csproj.AssemblyReference.cache
+/Users/user/Desktop/Курс РАЗРАБОТЧИК/Репозитории/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/Курс РАЗРАБОТЧИК/Репозитории/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.AssemblyInfoInputs.cache
+/Users/user/Desktop/Курс РАЗРАБОТЧИК/Репозитории/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.AssemblyInfo.cs
+/Users/user/Desktop/Курс РАЗРАБОТЧИК/Репозитории/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Курс РАЗРАБОТЧИК/Репозитории/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.dll
+/Users/user/Desktop/Курс РАЗРАБОТЧИК/Репозитории/Examples/Example001_HelloConsole/obj/Debug/net6.0/refint/Example001_HelloConsole.dll
+/Users/user/Desktop/Курс РАЗРАБОТЧИК/Репозитории/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.pdb
+/Users/user/Desktop/Курс РАЗРАБОТЧИК/Репозитории/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.genruntimeconfig.cache
+/Users/user/Desktop/Курс РАЗРАБОТЧИК/Репозитории/Examples/Example001_HelloConsole/obj/Debug/net6.0/ref/Example001_HelloConsole.dll
