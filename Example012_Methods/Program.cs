@@ -51,51 +51,47 @@ int year = Method3();
 //     return result;
 // }
 
-string Method4 (int count, string text)
-{
-    string result = String.Empty;
+ string Method4 (int count, string text)
+ {
+     string result = String.Empty;
     for(int i = 0; i < count; i++)
-    {
+     {
         result = result + text; 
-    }
-    return result;
-}
+     }
+     return result;
+ }
 
 string res = Method4(10, "asdf ");
 Console.WriteLine(res);
 
 
-// ===== Работа с текстом
-// Дан текст. В тексте нужно все пробелы заменить черточками,
-// маленькие буквы "к" заменить большими "К",
-// а большие "С" заменить маленькими "с".
 
-// Ясна ли задача?
+// Таблица умножения как пример цикла в цикле
 
-string text = "- Я думаю, - сказал князь, улыбаясь, - что, "
-            + "ежели бы вас послали вместо нашего милого Винценгороде,"
-            + "вы бы взяли приступом согласие прусского короля. "
-            + "Вы так красноречивы. Вы дадите мне чаю?";
+// for (int i = 2; i <= 10; i++)
+// {
+//     for (int j = 2; j <= 10; j++)
+//     {
+//         Console.WriteLine($"{i} * {j} = {i*j}");
+//     }
+//     Console.WriteLine();
+// }
 
-// string s = "qwerty"
-//             012
-//  s[3] // r
+// Сортировка массива по порядку
 
-string Replace(string text, char oldValue, char newValue)
+int [] arr = {1, 5, 7, 8, 9, 3, 4, 1, 2, 5};
+
+void PrintArray(int[] array)
 {
-    string result = String.Empty;
+    int count = array.Length;
 
-    int length = text.Length;
-    for(int i = 0; i < length; i++)
+    for (int i = 0; i < count; i++)
     {
-        if(text[i] == oldValue) result = result + $"{newValue}";
-        else result = result + $"{text[i]}";
+        Console.Write($"{array[i]} ");   
     }
-
-    return result;
+    Console.WriteLine();
 }
 
-string newText = Replace(text, ' ', '|');
-Console.WriteLine(newText);
+PrintArray(arr);
 
 
